@@ -19,8 +19,7 @@ Add your timetable
 Execute the program
 
 # CODE :
-``````
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html>
     <head></head>
 <body>
@@ -119,7 +118,7 @@ Execute the program
     </table>
 </body>
 </html>
-``````
+```
 # OUPUT :
 ![Alt text](Time_table.png)
 
