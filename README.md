@@ -1,4 +1,10 @@
 # Ex-05-Timetable
+
+NAME : ALIYA SHEEMA
+
+REFERENCE NUMBER : 23005529
+
+DEPARTMENT : AIDS
 # AIM
 To Write a html webpage page to display your timetable.
 
