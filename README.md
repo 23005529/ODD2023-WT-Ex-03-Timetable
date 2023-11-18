@@ -26,9 +26,9 @@ Execute the program
         </tr>
         <tr bgcolor="#728FCE">
             <th align= "center"  colspan="1"  height="40" width="80"><b>NAME</b></th>
-            <th align= "center"  colspan="2"  bgcolor="LightSteelBlue" height="40" width="80"><b>RENUSRI NARAHARASHETTY</b></th>
+            <th align= "center"  colspan="2"  bgcolor="LightSteelBlue" height="40" width="80"><b>ALIYA SHEEMA</b></th>
             <th align= "center"  colspan="1"  height="40" width="100"><b>REFERENCE NO.</b></th>
-            <th align= "center"  colspan="2"  bgcolor="LightSteelBlue" height="40" width="80"><b>23009126</b></th>
+            <th align= "center"  colspan="2"  bgcolor="LightSteelBlue" height="40" width="80"><b>23005529</b></th>
         </tr>
         <tr bgcolor="#99ccff">
             <th align= "center"  colspan="6" height="40" width="50"> <b>SEMESTER-1 ODD-JUNIOR(2023-2024)</b></th>
@@ -65,21 +65,21 @@ Execute the program
         <tr bgcolor="#66ccff">
             <td align="center" height="80">
                 <b>Monday</b></td>
-            <td align="center" bgcolor="#e7feff "height="50">Engineering mechanics and product development</td>
+            <td align="center" bgcolor="#e7feff "height="50">---</td>
             <td align="center" bgcolor="#e7feff " height="50">---</td>
             <td rowspan="5" align="center" height="50">
                 <h1>L<br>U<br>N<br>C<br>H</h1>
             </td>
-            <td bgcolor="#e7feff " align="center"height="50">---</td>
+            <td bgcolor="#e7feff " align="center"height="50">QUANTUM PHYSICS</td>
             <td align="center" bgcolor="#e7feff " height="50">---</td>
         </tr>
         <tr bgcolor="#66ccff">
             <td align="center"  height="80">
                 <b>Tuesday</b>
             </td>
-            <td  bgcolor="#e7feff "align="center"height="50">Communicative english</td>
-            <td align="center" bgcolor="#e7feff "height="50">---</td>
-            <td align="center" bgcolor="#e7feff "height="50">Fundamentals of C Programming</td>
+            <td  bgcolor="#e7feff "align="center"height="50">---</td>
+            <td align="center" bgcolor="#e7feff "height="50">PYTHON AND LINEAR ALGEBRA</td>
+            <td align="center" bgcolor="#e7feff "height="50">COMMUNICATIVE ENGLISH</td>
             <td align="center" bgcolor="#e7feff " height="50">---</td>
             
         </tr>
@@ -87,33 +87,32 @@ Execute the program
             <td align="center" height="80">
                 <b>Wednesday</b>
             </td>
-            <td align="center" bgcolor="#e7feff " height="50">Fundamentals of C Programming</td>
-            <td align="center" bgcolor="#e7feff "height="50">Fundametals of web application development</td>
+            <td align="center" bgcolor="#e7feff " height="50">SOFT SKILLS</td>
+            <td align="center" bgcolor="#e7feff "height="50">FUNDAMENTALS OF WEB APPLICATION</td>
             <td align="center" bgcolor="#e7feff " height="50">---</td>
-            <td align="center" bgcolor="#e7feff " height="50">Engineering mechanics and product development</td>
+            <td align="center" bgcolor="#e7feff " height="50">PYTHON AND LINEAR ALGEBRA</td>
         </tr>
         <tr bgcolor="#66ccff">
             <td align="center" height="80">
                 <b>Thursday</b>
             </td>
-            <td align="center" bgcolor="#e7feff" height="50">Fundamentals of web application development</td>
-            <td align="center"  bgcolor="#e7feff "height="50">Probability and Queuing Models</td>
-            <td align="center" bgcolor="#e7feff "height="50">Communicative english</td>
-            <td  align="center" bgcolor="#e7feff " height="50">---</td>
+            <td align="center" bgcolor="#e7feff" height="50">FUNDAMENTALS OF WEB APPLICATION</td>
+            <td align="center"  bgcolor="#e7feff "height="50">---</td>
+            <td align="center" bgcolor="#e7feff "height="50">COMMUNICATIVE ENGLISH</td>
+            <td  align="center" bgcolor="#e7feff " height="50">PYTHON AND LINEAR ALGEBRA</td>
         </tr>
         <tr bgcolor="#66ccff">
             <td align="center"  height="80">
                 <b>Friday</b>
             </td>
-            <td align="center" bgcolor="#e7feff "height="50">---</td>
-            <td align="center" bgcolor="#e7feff "height="50">Fundamentals of web application development</td>
-            <td align="center" bgcolor="#e7feff " height="50">Soft skills</td>
-            <td align="center" bgcolor="#e7feff " height="50">Probability and Queueing Models</td>
+            <td align="center" bgcolor="#e7feff "height="50">PYTHON AND LINEAR ALGEBRA</td>
+            <td align="center" bgcolor="#e7feff "height="50">FUNDAMENTALS OF WEB APPLICATION</td>
+            <td align="center" bgcolor="#e7feff " height="50">---</td>
+            <td align="center" bgcolor="#e7feff " height="50">QUANTUM PHYSICS</td>
         </tr>
     </table>
 </body>
 </html>
-
 ``````
 # OUPUT :
 ![Alt text](Time_table.png)
