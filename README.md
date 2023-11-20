@@ -115,8 +115,8 @@ Execute the program
 
 ```
 # OUPUT :
+![Screenshot 2023-11-20 092451](https://github.com/23005529/ODD2023-WT-Ex-03-Timetable/assets/139842207/95ab0377-5d48-48d8-b8a9-3cc357127c7b)
 
-![Alt text](/output.png)
 
 # RESULT :
 The expected output has been successfully executed.
