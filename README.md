@@ -118,6 +118,5 @@ Execute the program
 
 ![Alt text](output.png)
 
-
 # RESULT :
 The expected output has been successfully executed.
