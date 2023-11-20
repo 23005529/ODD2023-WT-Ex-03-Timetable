@@ -115,7 +115,8 @@ Execute the program
 
 ```
 # OUPUT :
-![Alt text](../output.png)
+
+![Alt text](/output.png)
 
 
 # RESULT :
