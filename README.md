@@ -116,7 +116,7 @@ Execute the program
 ```
 # OUPUT :
 
-![Alt text](/output.png)
+"C:\Users\admin\Pictures\Screenshots\Screenshot 2023-11-20 092451.png"
 
 # RESULT :
 The expected output has been successfully executed.
