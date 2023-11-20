@@ -19,108 +19,104 @@ Add your timetable
 Execute the program
 
 # CODE :
-```<!DOCTYPE html>
+```
 <html>
-    <head></head>
+<head>
+<title>Slot Timetable</title>
+</head>
 <body>
-
-    <table border="5" cellspacing="3" align="center"  >
-        
-        <tr bgcolor="#66b3ff">
-            <th align= "center"  colspan="6" height="50" width="100"><h1>TIME TABLE</h1></th>
-        </tr>
-        <tr bgcolor="#728FCE">
-            <th align= "center"  colspan="1"  height="40" width="80"><b>NAME</b></th>
-            <th align= "center"  colspan="2"  bgcolor="LightSteelBlue" height="40" width="80"><b>ALIYA SHEEMA</b></th>
-            <th align= "center"  colspan="1"  height="40" width="100"><b>REFERENCE NO.</b></th>
-            <th align= "center"  colspan="2"  bgcolor="LightSteelBlue" height="40" width="80"><b>23005529</b></th>
-        </tr>
-        <tr bgcolor="#99ccff">
-            <th align= "center"  colspan="6" height="40" width="50"> <b>SEMESTER-1 ODD-JUNIOR(2023-2024)</b></th>
-        </tr>
-       
-        
-        <tr bgcolor="#66b3ff">
-            
-            <td align="center"  height="50"
-                width="125"><br>
-                <b>Day/Period</b></br>
-            </td>
-            <td align="center" height="50"
-                width="125">
-                <b>I<br>8:00-10:00</b>
-            </td>
-            <td align="center" height="50"
-                width="125">
-                <b>II<br>10:00-12:00</b>
-            </td>
-            <td align="center" height="50"
-                width="125">
-                <b>12:00-1:00</b>
-            </td>
-            <td align="center" height="50"
-                width="125">
-                <b>III<br>1:00-3:00</b>
-            </td>
-            <td align="center" height="50"
-                width="125">
-                <b>IV<br>3:00-5:00</b>
-            </td>
-        </tr>
-        <tr bgcolor="#66ccff">
-            <td align="center" height="80">
-                <b>Monday</b></td>
-            <td align="center" bgcolor="#e7feff "height="50">---</td>
-            <td align="center" bgcolor="#e7feff " height="50">---</td>
-            <td rowspan="5" align="center" height="50">
-                <h1>L<br>U<br>N<br>C<br>H</h1>
-            </td>
-            <td bgcolor="#e7feff " align="center"height="50">QUANTUM PHYSICS</td>
-            <td align="center" bgcolor="#e7feff " height="50">---</td>
-        </tr>
-        <tr bgcolor="#66ccff">
-            <td align="center"  height="80">
-                <b>Tuesday</b>
-            </td>
-            <td  bgcolor="#e7feff "align="center"height="50">---</td>
-            <td align="center" bgcolor="#e7feff "height="50">PYTHON AND LINEAR ALGEBRA</td>
-            <td align="center" bgcolor="#e7feff "height="50">COMMUNICATIVE ENGLISH</td>
-            <td align="center" bgcolor="#e7feff " height="50">---</td>
-            
-        </tr>
-        <tr bgcolor="#66ccff">
-            <td align="center" height="80">
-                <b>Wednesday</b>
-            </td>
-            <td align="center" bgcolor="#e7feff " height="50">SOFT SKILLS</td>
-            <td align="center" bgcolor="#e7feff "height="50">FUNDAMENTALS OF WEB APPLICATION</td>
-            <td align="center" bgcolor="#e7feff " height="50">---</td>
-            <td align="center" bgcolor="#e7feff " height="50">PYTHON AND LINEAR ALGEBRA</td>
-        </tr>
-        <tr bgcolor="#66ccff">
-            <td align="center" height="80">
-                <b>Thursday</b>
-            </td>
-            <td align="center" bgcolor="#e7feff" height="50">FUNDAMENTALS OF WEB APPLICATION</td>
-            <td align="center"  bgcolor="#e7feff "height="50">---</td>
-            <td align="center" bgcolor="#e7feff "height="50">COMMUNICATIVE ENGLISH</td>
-            <td  align="center" bgcolor="#e7feff " height="50">PYTHON AND LINEAR ALGEBRA</td>
-        </tr>
-        <tr bgcolor="#66ccff">
-            <td align="center"  height="80">
-                <b>Friday</b>
-            </td>
-            <td align="center" bgcolor="#e7feff "height="50">PYTHON AND LINEAR ALGEBRA</td>
-            <td align="center" bgcolor="#e7feff "height="50">FUNDAMENTALS OF WEB APPLICATION</td>
-            <td align="center" bgcolor="#e7feff " height="50">---</td>
-            <td align="center" bgcolor="#e7feff " height="50">QUANTUM PHYSICS</td>
-        </tr>
-    </table>
+<center>
+<img src="/static/logo.png" height="100" width="540">
+</center>
+<br>
+<table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="lavender">
+<caption><b>SLOT TIME TABLE - ALIYA SHEEMA (23005529)</b></caption>
+<tr align="center">
+<th bgcolor="violet">Day/Time</th>
+<th bgcolor="violet">Monday
+<th bgcolor="violet">Tuesday
+<th bgcolor="violet">Wednesday
+<th bgcolor="violet">Thursday
+<th bgcolor="violet">Friday
+</tr>
+<tr align="center">
+<th bgcolor="violet">8-10</th>
+<td >FREE SLOT</td>
+<td >FREE SLOT</td>
+<td >SOFT SKILLS</td>
+<td >FUNDAMENTALS OF WEB APPLICATION DEVELOPEMENT</td>
+<td >PYTHON AND LINEAR ALGEBRA</td>
+</tr>
+<tr align="center">
+<th bgcolor="violet">10-12</th>
+<td >FRRE SLOT</td>
+<td >PYTHON AND LINEAR ALGEBRA</td>
+<td >FUNDAMENTALS OF WEB APPLICATION DEVELOPEMENT</td>
+<td >FREE SLOT</td>
+<td >FUNDAMENTALS OF WEB APPLICATION DEVELOPEMENT</td>
+</tr>
+<tr>
+<th bgcolor="violet">12-01</th>
+<td colspan="5" align="center"> L U N C H - B R E A K</td>
+</tr>
+<tr>
+<tr align="center">
+<th bgcolor="violet">01-03</th>
+<td >PHYSICS FOR QUANTUM COMPUTING</td>
+<td >COMMUNICATIVE ENGLISH</td>
+<td >FREE SLOT</td>
+<td >COMMUNICATIVE ENGLISH</td>
+<td >FREE SLOT</td>
+</tr>
+<tr align="center">
+<th bgcolor="violet">03-05</th>
+<td >FREE SLOT</td>
+<td >FREE SLOT</td>
+<td >PYTHON AND LINEAR ALGEBRA</td>
+<td >PYTHON AND LINEAR ALGEBRA</td>
+<td >PHYSICS FOR QUANTUM COMPUTING</td>
+</tr>
+</table>
+<br>
+<table align="center" cellspacing="2" cellpadding="4" border="2">
+<tr align="center">
+<th>No.</th>
+<th>Subject Code:</th>
+<th>Subject Name:</th>
+</tr>
+<tr>
+<td align="center">1.</td>
+<td align="center">19AI414</td>
+<td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT(FWAD)</td>
+</tr>
+<tr>
+<td align="center">2.</td>
+<td align="center">19EN101</td>
+<td>COMMUNICATIVE ENGISH</td>
+</tr>
+<tr>
+<td align="center">3.</td>
+<td align="center">19AI301C</td>
+<td>PYTHON AND LINEAR ALGEBRA(MATH FOR AI, PYTHON PROGRAM AND LINEAR ALGEBRA)</td>
+</tr>
+<tr>
+<td align="center">4.</td>
+<td align="center">19PH214</td>
+<td>PHYSICS FOR QUANTUM COMPUTING</td>
+</tr>
+<tr>
+<td align="center">5.</td>
+<td align="center">19EY701</td>
+<td>SOFT SKILLS</td>
+</tr>
+</table>
 </body>
 </html>
+
 ```
 # OUPUT :
-![Alt text](Time_table.png)
+
+![Alt text](../output.png)
 
 # RESULT :
 The expected output has been successfully executed.
